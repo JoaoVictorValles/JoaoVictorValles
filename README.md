@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @jaoavictor
-- 👀 I’m interested in  trabalhar com python 3
-- 🌱 I’m currently learning  programar python 3
-- 💞️ I’m looking to collaborateon  na comunidade
-- 📫 How to reach me  email:joaovalles@outlook.
+- 👋 Olá, sou o João Victor
+- 👀 Eu estou interessado em trabalhar com python 3
+- 🌱 Eu estou aprendendo a programar python 3
+- 💞️ Eu quero colaborar com a comunidade
+- 📫 Meus contatos são por email: joaovalles@outlook.
+-  Ou telefone: (11)96245-9474
 
 <!---
 jaoavictor/jaoavictor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
