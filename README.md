@@ -1,8 +1,8 @@
 - 👋 Olá, sou o João Victor
-- 👀 Eu estou interessado em trabalhar com python 3
-- 🌱 Eu estou aprendendo a programar python 3
+- 👀 Eu estou interessado em trabalhar com Ios
+- 🌱 Eu estou aprendendo a programar Swift
 - 💞️ Eu quero colaborar com a comunidade
-- 📫 Meus contatos são por email: joaovalles@outlook.
+- 📫 Meus contatos são por email: joaovalles@outlook.com
 -  Ou telefone: (11)96245-9474
 
 <!---
