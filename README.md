@@ -1,6 +1,6 @@
 - 👋 Olá, sou o João Victor
-- 👀 Eu estou interessado em trabalhar com Ios
-- 🌱 Eu estou aprendendo a programar Swift
+- 👀 Eu estou interessado em trabalhar com Android
+- 🌱 Eu estou aprendendo a programar Kotlin
 - 💞️ Eu quero colaborar com a comunidade
 - 📫 Meus contatos são por email: joaovalles@outlook.com
 -  Ou telefone: (11)96245-9474
