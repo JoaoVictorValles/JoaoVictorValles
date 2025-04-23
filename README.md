@@ -1,6 +1,7 @@
 - 👋 Olá, sou o João Victor
 - 👀 Eu estou interessado em trabalhar com Android
-- 🌱 Eu estou aprendendo a programar Kotlin
+- 🌱 Eu estou aprendendo a programar em Kotlin
+- 👍 Atualmente programando Jetpack Compose
 - 💞️ Eu quero colaborar com a comunidade
 - 📫 Meus contatos são por email: joaovalles@outlook.com
 -  Ou telefone: (11)96245-9474
