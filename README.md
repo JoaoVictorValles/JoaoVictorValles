@@ -9,8 +9,8 @@
 
 ## Sobre mim
 
-Sou um profissional autônomo com experiência no setor de transporte, morando em São Paulo - SP, Brasil. Atualmente, estou estudando Kotlin e Jetpack Compose, buscando oportunidades para atuar como programador.  
-Me considero uma pessoa dedicada, esforçada, de fácil aprendizado e sempre focado no que faço. Tenho paixão por tecnologia, aprendizado contínuo e estou sempre em busca de novos desafios para crescer profissionalmente.
+Sou um profissional inovador com experiência no setor de transporte, morando em São Paulo - SP, Brasil. Atualmente estou estudando Kotlin e Jetpack Compose, buscando oportunidades para atuar como programador.  
+Me considero uma pessoa dedicada, esforçada, de fácil aprendizado e sempre focada no que faço. Tenho paixão por tecnologia, aprendizado contínuo e estou sempre em busca de novos desafios para crescer profissionalmente.
 
 ---
 
@@ -44,6 +44,8 @@ Migrar para o setor de tecnologia, colaborando em projetos de desenvolvimento e 
 
 ---
 
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVictorValles&show_icons=true&theme=default" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVictorValles&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </div>
