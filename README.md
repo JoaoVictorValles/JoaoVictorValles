@@ -1,12 +1,49 @@
-- 👋 Olá, sou o João Victor
-- 👀 Eu estou interessado em trabalhar com Android
-- 🌱 Eu estou aprendendo a programar em Kotlin
-- 👍 Atualmente programando Jetpack Compose
-- 💞️ Eu quero colaborar com a comunidade
-- 📫 Meus contatos são por email: joaovalles@outlook.com
--  Ou telefone: (11)96245-9474
+# 👋 Olá, eu sou o João Victor!
 
-<!---
-jaoavictor/jaoavictor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚛 **Profissão atual:** Autônomo no setor de transporte  
+💻 **Transição de carreira:** Estudante de Kotlin e Jetpack Compose, focado em desenvolvimento de software  
+🌎 **Localização:** São Paulo, SP, Brasil  
+🚀 **Objetivo:** Seguir carreira na área de programação
+
+---
+
+## Sobre mim
+
+Sou um profissional autônomo com experiência no setor de transporte, morando em São Paulo - SP, Brasil. Atualmente, estou estudando Kotlin e Jetpack Compose, buscando oportunidades para atuar como programador.  
+Me considero uma pessoa dedicada, esforçada, de fácil aprendizado e sempre focado no que faço. Tenho paixão por tecnologia, aprendizado contínuo e estou sempre em busca de novos desafios para crescer profissionalmente.
+
+---
+
+## 💡 Principais interesses
+
+- Desenvolvimento em Kotlin
+- Jetpack Compose para desenvolvimento Android
+- Programação mobile e backend
+- Aprender novas tecnologias e boas práticas de código
+
+---
+
+## 📚 Em aprendizado
+
+- Kotlin
+- Jetpack Compose
+- Fundamentos de programação
+- Desenvolvimento de software
+
+---
+
+## 🚀 Objetivo
+
+Migrar para o setor de tecnologia, colaborando em projetos de desenvolvimento e crescendo como programador.
+
+---
+
+## 📫 Contato
+
+- Email: [joaovalles@outlook.com](mailto:joaovalles@outlook.com)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVictorValles&show_icons=true&theme=default" alt="GitHub Stats"/>
+</div>
